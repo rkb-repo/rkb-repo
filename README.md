@@ -1,5 +1,5 @@
 # Hello, name's Rishi. 👋
-# 💫 About Me:
+# About Me:
 🔭 Working on efficient implementation of RLWE algorithm.<br>🌱 Currently learning about network security and cryptographic systems.
 
 
